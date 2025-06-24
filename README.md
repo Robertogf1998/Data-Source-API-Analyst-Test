@@ -50,3 +50,5 @@ El archivo `Github_API_Colab_Notebook.ipynb` incluye lo siguiente:
 
 Roberto Gutierrez  
 GitHub: [@Robertogf1998](https://github.com/Robertogf1998)
+
+🔹 Nota: Se utilizó Google Colab para la extracción de datos y no se usó Postman. Por ello, la carpeta `Postman_Collection/` permanece vacía.
